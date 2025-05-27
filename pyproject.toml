@@ -62,16 +62,16 @@ serialize = [
 [[tool.bumpversion.files]]
 filename = "CHANGES.md"
 search = '''
-[Unreleased](<REPOSITORY_URL>/tree/main) (latest)
+[Unreleased](https://github.com/viktor-ktorvi/building-operation-with-cobs/tree/main) (latest)
 -------------------------------------------------------------------------------------
 '''
 replace = '''
-[Unreleased](<REPOSITORY_URL>/tree/main) (latest)
+[Unreleased](https://github.com/viktor-ktorvi/building-operation-with-cobs/tree/main) (latest)
 -------------------------------------------------------------------------------------
 
 [//]: # (New changes here in list form)
 
-[{new_version}](<REPOSITORY_URL>/tree/{new_version}) ({utcnow:%Y-%m-%d})
+[{new_version}](https://github.com/viktor-ktorvi/building-operation-with-cobs/tree/{new_version}) ({utcnow:%Y-%m-%d})
 -------------------------------------------------------------------------------------
 '''
 

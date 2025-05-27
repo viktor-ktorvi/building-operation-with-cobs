@@ -1,4 +1,4 @@
-name: my-python-project-env
+name: building-op-cobs-env
 channels:
   - conda-forge
 dependencies:

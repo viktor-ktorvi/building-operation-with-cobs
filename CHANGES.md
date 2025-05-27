@@ -1,6 +1,6 @@
 # CHANGES.md
 
-[Unreleased](<REPOSITORY_URL>/tree/main) (latest)
+[Unreleased](https://github.com/viktor-ktorvi/building-operation-with-cobs/tree/main) (latest)
 -------------------------------------------------------------------------------------
 
 * 
